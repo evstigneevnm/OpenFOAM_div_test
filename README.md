@@ -2,7 +2,7 @@
 (c) 2020 Evstigneev N.M.
 GPLv3 licence.
 
-#OpenFOAM divergence test with Rhie-Chow interpolation#
+# OpenFOAM divergence test with Rhie-Chow interpolation
 
 This test besically executes OpenFOAM on different mesh sized and calculates norms of divergence distributions.
 Divergence is calculated using standard routine be OpenFOAM and is then calculated using 'postProcess' tool.
